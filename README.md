@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+#Works on BIG SCREEN only for PIRO TRADERS 
+### NO NOOBILE PHONES WELCOMED
+## MAYBE IF YOU HAVE A Z FOLD3/FOLD2 to view the SITE 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+![](https://media.giphy.com/media/6EFrsT9zkE1l0Xm6Nd/giphy.gif?cid=ecf05e476kjcvd3hury0zlnpuembsbd9wg5r6i9ueh6xhgdv&rid=giphy.gif&ct=g)
+
+
+
+
 
 ## Available Scripts
 
